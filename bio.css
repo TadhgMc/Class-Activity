@@ -1,0 +1,21 @@
+    h1 {
+        background-color: black;
+        color: red;
+        font-style:oblique;
+        text-align: center;
+    }
+
+    p {
+        background-color: red;
+        color: black;
+        text-align: center;
+    }
+
+    h2 {
+        background-color:black;
+        color: red;
+        text-align: center;
+    }
+    ol {
+        text-align: center;
+    }
